@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Let me introduce myself quickly.
+I'm Andy, nice to meet you here.
 
 <!--
 **AndyLau223/AndyLau223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
